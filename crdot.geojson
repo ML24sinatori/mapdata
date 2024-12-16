@@ -223,7 +223,7 @@
 { "type": "Feature", "properties": { "id": 218, "name": "紅葉川高校跡地", "latitude": 35.680622, "longitude": 139.7770643, "river": "楓川", "type": "spot" }, "geometry": { "type": "Point", "coordinates": [ 139.7770643, 35.680622 ] } },
 { "type": "Feature", "properties": { "id": 219, "name": "日本橋郵便局 郵便発祥の地", "latitude": 35.6835251, "longitude": 139.7771902, "river": "楓川", "type": "spot" }, "geometry": { "type": "Point", "coordinates": [ 139.7771902, 35.6835251 ] } },
 { "type": "Feature", "properties": { "id": 220, "name": "兜橋跡", "latitude": 35.6834818, "longitude": 139.7782435, "river": "楓川", "type": "bridge" }, "geometry": { "type": "Point", "coordinates": [ 139.7782435, 35.6834818 ] } },
-{ "type": "Feature", "properties": { "id": 221, "name": "海賊橋跡", "latitude": 35.6822186, "longitude": 139.7774099, "river": "楓川", "type": "bridge" }, "geometry": { "type": "Point", "coordinates": [ 139.7774099, 35.6822186 ] } },
+{ "type": "Feature", "properties": { "id": 221, "name": "海運橋（海賊橋）跡", "latitude": 35.6822186, "longitude": 139.7774099, "river": "楓川", "type": "bridge" }, "geometry": { "type": "Point", "coordinates": [ 139.7774099, 35.6822186 ] } },
 { "type": "Feature", "properties": { "id": 222, "name": "丹波国綾部藩上屋敷跡", "latitude": 35.6801723, "longitude": 139.7769301, "river": "楓川", "type": "spot" }, "geometry": { "type": "Point", "coordinates": [ 139.776930099999987, 35.6801723 ] } },
 { "type": "Feature", "properties": { "id": 223, "name": "新場橋", "latitude": 35.6794224, "longitude": 139.775751, "river": "楓川", "type": "bridge" }, "geometry": { "type": "Point", "coordinates": [ 139.775751, 35.6794224 ] } }
 ]
